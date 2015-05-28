@@ -14,7 +14,7 @@
  * @package WordPress
  */
 
-define('WP_REDIS_HOST', '');
+define('WP_REDIS_HOST', 'wordpress.ashvqf.0001.use1.cache.amazonaws.com');
  
 define('WP_HOME','');
 define('WP_SITEURL','');
@@ -27,10 +27,10 @@ define('DB_NAME', 'wordpress');
 define('DB_USER', 'wordpress');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'wordpress');
+define('DB_PASSWORD', 'Sh1tyb33f');
 
 /** MySQL hostname */
-define('DB_HOST', '');
+define('DB_HOST', 'wordpress.ck7nqyelziwy.us-east-1.rds.amazonaws.com:3306');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
@@ -47,14 +47,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'put your unique phrase here');
-define('SECURE_AUTH_KEY',  'put your unique phrase here');
-define('LOGGED_IN_KEY',    'put your unique phrase here');
-define('NONCE_KEY',        'put your unique phrase here');
-define('AUTH_SALT',        'put your unique phrase here');
-define('SECURE_AUTH_SALT', 'put your unique phrase here');
-define('LOGGED_IN_SALT',   'put your unique phrase here');
-define('NONCE_SALT',       'put your unique phrase here');
+define('AUTH_KEY',         'g7C1^jhO?J8V,*{(5/2z jqcTEPHMYkn*UuTMa=9TVSd~+)KC^Alm8IA|E$NR6$+');
+define('SECURE_AUTH_KEY',  'zS}z^S$.;V&A|iBpQxmC?mc s5w!&nw5V}T[Q^W5{]b^-SLn}Q4c>H+bRnD|W*O6');
+define('LOGGED_IN_KEY',    'q,#fzWCi7k5!Hca^/c9ZqUQ(2heg[?bvpeL$!k%r_+.D-w4t=$jb|(v[/k35|)BG');
+define('NONCE_KEY',        'F;X<pPfbcF aS=~iyO8~|+LF#bP;`JpZk9xsU24D{by=k**;!D:n~dAA1$o_W<a&');
+define('AUTH_SALT',        'RSVyJ-zUNlU]MuSFTVc05-);{RkTh38Yb71;U`l`[xsj`WP&~+m}ERQw7_t@=%f8');
+define('SECURE_AUTH_SALT', '>XQ}m0!m0od&jlpE3>tKO7{y>[gXbS[%?c%MR;zH2<q<)(apq>ARpHC7uwjO$n-1');
+define('LOGGED_IN_SALT',   '85=aGe{S(s|m-R5N=a-}$o.-[rRAL$|m(IS(:VRiV%1!-4+-u%N6tW-f~|IfP)4M');
+define('NONCE_SALT',       ']1Ml,{d{RY~>T7T{xcUr4 +v0_AdyTr2CeDTB-a82LXP`:34~+-@zt@__9Nk3tu=');
 
 /**#@-*/
 
